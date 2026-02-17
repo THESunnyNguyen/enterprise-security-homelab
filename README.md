@@ -16,8 +16,9 @@ This repository documents my journey through building and operating a multi-tier
 
 ## 📚 Labs
 Threat Vectors and Attack Surfaces
-<!--
 Remote and Local Exploitation
+<!--
+
 Incident Response Procedures, Forensics, and Forensic Analysis
 Vulnerability Management
 Encryption
