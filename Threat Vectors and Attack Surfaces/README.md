@@ -163,6 +163,7 @@ Identify installed vulnerable software and demonstrate exploitation techniques t
 **Vulnerability Research:**
 
 https://nvd.nist.gov/vuln/detail/cve-2007-5659 
+
 <img width="657" height="317" alt="image" src="https://github.com/user-attachments/assets/c8e46992-62bc-464f-a577-b10e9821e2cc" />
 
 **Risk Assessment:** Critical severity vulnerability with known public exploit code available.
