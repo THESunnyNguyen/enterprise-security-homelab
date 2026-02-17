@@ -12,9 +12,15 @@ This hands-on lab focused on identifying and mitigating common threat vectors an
 
 ---
 
-## Lab Architecture
+## Lab Architecture / Environment
 
 <img width="378" height="468" alt="image" src="https://github.com/user-attachments/assets/1b6ace69-b2c3-425f-8d54-468d06658ad0" />
+
+**Virtual Machines Used:**
+- ACIDC01: Windows Server 2022 (Domain Controller)
+- ACIDM01: Windows Server 2022 (Member Server)
+- ACIWIN11: Windows 11 Professional (Workstation)
+- ACIKALI: Kali Purple 2023.1 (Attack System)
 
 ---
 
@@ -305,16 +311,6 @@ In a real enterprise environment, the same issues demonstrated in this lab are s
 - CIS Critical Security Controls
 - MITRE ATT&CK Framework
 - OWASP Security Guidelines
-
----
-
-## Lab Environment Details
-
-**Virtual Machines Used:**
-- ACIDC01: Windows Server 2022 (Domain Controller)
-- ACIDM01: Windows Server 2022 (Member Server)
-- ACIWIN11: Windows 11 Professional (Workstation)
-- ACIKALI: Kali Purple 2023.1 (Attack System)
 
 ---
 
