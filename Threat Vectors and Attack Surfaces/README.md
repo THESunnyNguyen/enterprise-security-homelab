@@ -12,16 +12,6 @@ This hands-on lab focused on identifying and mitigating common threat vectors an
 
 ---
 
-## Learning Objectives
-
-- ✅ Discover and remediate unnecessary open service ports
-- ✅ Identify and disable default credential accounts
-- ✅ Recognize vulnerable applications through version analysis
-- ✅ Simulate real-world exploitation techniques
-- ✅ Analyze attack indicators using Windows Event Viewer
-
----
-
 ## Lab Architecture
 
 <img width="378" height="468" alt="image" src="https://github.com/user-attachments/assets/1b6ace69-b2c3-425f-8d54-468d06658ad0" />
@@ -310,7 +300,6 @@ Timestamp: [Corresponding to PDF opening]
 - This lab mirrors actual security assessment procedures
 - Techniques used are standard in penetration testing engagements
 - Remediation methods follow industry best practices (CIS Controls, NIST CSF)
-- Skills directly transferable to SOC analyst and security engineer roles
 
 ---
 
