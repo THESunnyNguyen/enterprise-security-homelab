@@ -282,24 +282,9 @@ Timestamp: [Corresponding to PDF opening]
 
 ---
 
-## Lessons Learned
+## Real World Application
 
-### What Worked Well
-✅ Systematic approach to identifying security weaknesses  
-✅ Combination of offensive and defensive perspectives  
-✅ Documentation of findings for audit and compliance purposes  
-✅ Use of industry-standard tools and frameworks  
-
-### Areas for Improvement
-⚠️ Could implement automated vulnerability scanning  
-⚠️ Should establish baseline security configurations  
-⚠️ Need recurring security audits on a schedule  
-⚠️ Consider implementing Security Information and Event Management (SIEM)  
-
-### Real-World Applications
-- This lab mirrors actual security assessment procedures
-- Techniques used are standard in penetration testing engagements
-- Remediation methods follow industry best practices (CIS Controls, NIST CSF)
+In a real enterprise environment, the same issues demonstrated in this lab are some of the most common causes of real security incidents: unnecessary open ports and services expand the attack surface, default accounts like Guest create low-effort access paths, and outdated unauthorized software (like legacy Adobe Reader) enables file-based exploitation through phishing or shared drives. The workflow used here mirrors real security operations by combining reconnaissance (Nmap), remediation (Windows Firewall + AD account hardening), and detection/forensics (Event Viewer), showing how defenders reduce risk, enforce least privilege, and identify indicators of compromise even when an attack attempt fails.
 
 ---
 
