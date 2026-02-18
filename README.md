@@ -15,9 +15,8 @@ This repository documents my journey through building and operating a multi-tier
 
 
 ## 📚 Labs
-Threat Vectors and Attack Surfaces
-
-Vulnerability Management
+- Threat Vectors and Attack Surfaces
+- Vulnerability Management
 
 <!--
 Remote and Local Exploitation
