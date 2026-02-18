@@ -17,11 +17,12 @@ This repository documents my journey through building and operating a multi-tier
 ## 📚 Labs
 Threat Vectors and Attack Surfaces
 
-Remote and Local Exploitation
-<!--
-
-Incident Response Procedures, Forensics, and Forensic Analysis
 Vulnerability Management
+
+<!--
+Remote and Local Exploitation
+Incident Response Procedures, Forensics, and Forensic Analysis
+
 Encryption
 Using Public Key Encryption to Secure Messages
 Securing the pfSense Firewall
