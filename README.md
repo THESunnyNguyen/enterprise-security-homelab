@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-This repository documents my journey through building and operating a multi-tiered enterprise security homelab. The lab environment simulates real-world enterprise infrastructure, providing hands-on experience with security tools, attack methodologies, defensive techniques, and incident response procedures.
+This repository documents my journey through operating a multi-tiered enterprise security lab. The lab environment simulates real-world enterprise infrastructure, providing hands-on experience with security tools, attack methodologies, defensive techniques, and incident response procedures.
 
 **Primary Focus Areas:**
 - 🔒 Enterprise Security Architecture
